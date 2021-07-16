@@ -20,6 +20,15 @@
               itemized fares, rate types, payment types, and driver-reported passenger counts.<br>
               This Big Data Analytic is to help TLC in establising the regulations and find some insights useful to the companies.
  * Machine Leanrning Model - Predict the total taxi fare
+ * Recommendation and Insights to Regulators include <br>
+ In each month and year, <br>
+    - which day of the months has most number of taxi trips <br>
+    - Which hour of the day had the most trips<br>
+    - the average amount paid per trip <br>
+    - total number of trips<br>
+    - average amount paid per passenger<br>
+    - Max/Min/Avg/Median trip distance and duration
+    
  
  
  
@@ -42,7 +51,7 @@
 3) To load the Jupyter Lab, <br/> Copy and paste the url from the console  for example: http://127.0.0.1:8888/?token=979a5xxxxx in the browser 
 
 ### Extra Notes
-* Data Processing Done in Local System
+* Data Processing Done in local system
 * Processed Data is Transferred to Google Drive
-* Due to hardware limitation the Model Training is done in Google Cloud environment
-* The Model training notebook in Google Colab is [here](https://colab.research.google.com/drive/1yUF_U2ko3OcHR-u04eE851Ilhc7vecYv#scrollTo=kU67gaHVHOMj)
+* Due to hardware limitation in the local system, the Model Training is done in Google Cloud environment
+* The Model training notebook in Google Colab can be found [here](https://colab.research.google.com/drive/1yUF_U2ko3OcHR-u04eE851Ilhc7vecYv#scrollTo=kU67gaHVHOMj)
