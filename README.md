@@ -51,7 +51,7 @@
 3) To load the Jupyter Lab, <br/> Copy and paste the url from the console  for example: http://127.0.0.1:8888/?token=979a5xxxxx in the browser 
 
 ### Extra Notes
-* Data Processing Done in local system
+* Data Processing performed in local system
 * Processed Data is Transferred to Google Drive
 * Due to hardware limitation in the local system, the Model Training is done in Google Cloud environment
-* The Model training notebook in Google Colab can be found [here](https://colab.research.google.com/drive/1yUF_U2ko3OcHR-u04eE851Ilhc7vecYv#scrollTo=kU67gaHVHOMj)
+* The Model training performed in Google Colab can be found [here](https://colab.research.google.com/drive/1yUF_U2ko3OcHR-u04eE851Ilhc7vecYv#scrollTo=kU67gaHVHOMj)
