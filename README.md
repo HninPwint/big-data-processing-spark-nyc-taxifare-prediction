@@ -17,8 +17,9 @@
  * Business Use Case - TLC is the agency responsible for licensing and regulating New York City’s taxi cabs since 1971.
               TLC has publicly published millions of trip records from both yellow and green taxi cabs.
               Each record includes fields capturing pick-up and drop-off dates/times, locations, trip distances,
-              itemized fares, rate types, payment types, and driver-reported passenger counts.  
-              Yellow Taxi and Green Taxi campanies are under TLC. This Big Data Analytic is to help TLC in establising the regulations and find some insights useful to the                 businesses
+              itemized fares, rate types, payment types, and driver-reported passenger counts.<br>
+              This Big Data Analytic is to help TLC in establising the regulations and find some insights useful to the companies.
+ * Machine Leanrning Model - Predict the total taxi fare
  
  
  
